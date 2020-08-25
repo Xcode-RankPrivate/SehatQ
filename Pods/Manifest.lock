@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.2.2)
+  - JGProgressHUD (2.1)
+  - SkeletonView (1.8.7)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - JGProgressHUD
+  - SkeletonView
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JGProgressHUD
+    - SkeletonView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  SkeletonView: ba5370f41280b2f0a76918bb143c1294232bb4f4
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: c7dab9aaddbc189425976805a43ec233f6ec3783
+
+COCOAPODS: 1.9.3
